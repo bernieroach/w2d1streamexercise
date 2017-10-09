@@ -27,4 +27,4 @@ function 1337(httpsString){
 
 
 
-getHTML(requestOptions,toUpperCase);
+getHTML(requestOptions,reverse);
